@@ -3,8 +3,8 @@
 
 ## ゆーさーじ
 解凍したフォルダでこのコマンドを実行します:
-`npm install twitter`
-なんか適当なエディタでAutoBlocker.jsの設定されてない物いろいろを設定する 
+`npm install twitter`  
+なんか適当なエディタでAutoBlocker.jsの設定されてない物いろいろを設定する  
 consumer_key(Consumer Key),consumer_secret(Consumer Secret)  
 access_token_key(Access Token),access_token_secret(Access Token Secret)  
 word(e.g. #RTした人全員フォローする,#いいねした人全員フォローする)  
